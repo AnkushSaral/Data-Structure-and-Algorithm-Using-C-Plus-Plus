@@ -33,7 +33,6 @@ int main(){
 
 
 
-
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -67,7 +66,7 @@ int main(){
 
 
 
-    //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -137,7 +136,7 @@ int main(){
 
 
 
-    //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -210,12 +209,6 @@ int main(){
 
 
 
-
-
-
-
-
-
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -259,12 +252,7 @@ int main(){
 
 
 
-
-
-
-
-
-    //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -280,7 +268,8 @@ int main(){
            // 
            
            
-            //    For understanding the pattern of type 7, we can divide the pattern into two parts, first part is left triangle and second part is right triangle. The left triangle is increasing order of numbers and the right triangle is decreasing order of numbers. So we can use two loops to print the left triangle and right triangle separately. The first loop will print the left triangle and the second loop will print the right triangle. We also need to print spaces before printing the numbers to align the pattern properly. The number of spaces will be equal to the number of rows minus the current row number.             
+           //    For understanding the pattern of type 7, we can divide the pattern into two parts, first part is left triangle and second part is right triangle. The left triangle is increasing order of numbers and the right triangle is decreasing order of numbers. So we can use two loops to print the left triangle and right triangle separately. The first loop will print the left triangle and the second loop will print the right triangle. We also need to print spaces before printing the numbers to align the pattern properly. The number of spaces will be equal to the number of rows minus the current row number.             
+           
            //                   1 |
            //                 1 2 |1
            //               1 2 3 |2 1
